@@ -1,0 +1,65 @@
+📊 E-commerce SQL Analysis Results
+
+----------------------------------------
+🔹 Total Revenue Generated:
+140000
+
+----------------------------------------
+🔹 Customer-wise Spending:
+Rahul   - 65000
+Sneha   - 20000
+Amit    - 55000
+
+----------------------------------------
+🔹 Top 2 Customers (by Spending):
+1. Rahul   - 65000
+2. Amit    - 55000
+
+----------------------------------------
+🔹 Average Order Value:
+Rahul   - 32500
+Sneha   - 20000
+Amit    - 55000
+
+----------------------------------------
+🔹 High-Value Customers (> 40000 spending):
+Rahul
+Amit
+
+----------------------------------------
+🔹 Most Frequent Product:
+Laptop
+
+----------------------------------------
+🔹 Revenue by Product:
+Laptop  - 105000
+Mobile  - 20000
+Tablet  - 15000
+
+----------------------------------------
+🔹 Monthly Sales:
+January   - 50000
+February  - 20000
+March     - 70000
+
+----------------------------------------
+🔹 Running Total of Sales:
+2024-01-10  - 50000
+2024-02-15  - 70000
+2024-03-05  - 85000
+2024-03-20  - 140000
+
+----------------------------------------
+🔹 Customer Segmentation (Based on Spending):
+Segment 1 (High Value): Rahul, Amit
+Segment 2 (Medium): Sneha
+
+----------------------------------------
+
+- Laptop is the highest revenue-generating product.
+- Rahul is the top customer contributing maximum revenue.
+- March recorded the highest sales.
+- High-value customers contribute majority of total revenue.
+- Customer segmentation can help in targeted marketing strategies.
+
+----------------------------------------
